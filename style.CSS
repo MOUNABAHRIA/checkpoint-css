@@ -1,0 +1,34 @@
+body {
+    background: #726d6d;
+
+}
+.main img {
+    position: relative;
+    height: 30%;
+    width: 30%;
+    top: 0%;
+}
+.about {
+    padding-top: 20%;
+}
+ .main h1 {
+    color: #fff;
+    font-family: lobster;
+    font-size: 50px;
+
+}
+.main p {
+    font-size: 18px;
+    color: #fff;
+}
+botton{
+    color: rgb(49, 63, 58);
+    font-size: 1.5erm;
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 50px;
+}
+
